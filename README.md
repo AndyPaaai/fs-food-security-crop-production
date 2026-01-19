@@ -29,5 +29,7 @@ This project uses openly available data from public databases. The bibliometric 
 
 This repository is licensed under the **MIT License**, allowing free use, modification, and distribution with attribution. See `LICENSE` file for more details.
 
+## DOI
+
 [![DOI](https://zenodo.org/badge/1137306768.svg)](https://doi.org/10.5281/zenodo.18298032)
 
