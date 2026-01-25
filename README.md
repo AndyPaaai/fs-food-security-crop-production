@@ -1,6 +1,6 @@
 # fs-food-security-crop-production
 
-Code and data to reproduce the *income-group* analyses for Manuscript 1.
+Code and data to reproduce the *income-group* analyses for crop production paper.
 
 ## What this repo contains
 
